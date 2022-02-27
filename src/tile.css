@@ -1,0 +1,12 @@
+.MyGrid {
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+  display: flexbox;
+  flex-direction: row;
+}
+
+.title {
+  padding: 15px;
+  margin: 40px;
+}
